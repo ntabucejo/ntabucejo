@@ -46,6 +46,13 @@
   />
   <img
     align="center"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/public/technologies/nextauth.png?raw=true"
+    alt="nextauth"
+    height="40"
+    width="40"
+  />
+  <img
+    align="center"
     src="https://github.com/ntabucejo/ntabucejo/blob/main/public/technologies/typescript.png?raw=true"
     alt="typescript"
     height="40"
