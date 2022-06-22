@@ -122,3 +122,26 @@
     width="40"
   />
 </p>
+
+<p align="center">
+  <img
+    align="center"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntabucejo&theme=tokyonight"
+    alt="stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    align="center"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ntabucejo&theme=tokyonight"
+    alt="stats"
+  />
+  <img
+    align="center"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ntabucejo&theme=tokyonight"
+    alt="stats"
+  />
+</p>
+
+  
