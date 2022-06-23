@@ -5,7 +5,7 @@
   />
 </p>
 
-<h1 align="center">Welccome to my hub</h1>
+<h1 align="center">Welcome to my hub</h1>
 <p align="center">PROJECTS : SOLVING : LEARNING<p/>
 
 <p align="center">
